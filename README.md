@@ -2,6 +2,8 @@
 ### Aspiring Data Analyst | SQL | Python | Power BI | Data Modeling
 https://ai.studio/apps/c18499b3-4556-4afa-a709-0ef5478ef585?fullscreenApplet=true  -->PORTFOLIO
 
+https://ai.studio/apps/c18499b3-4556-4afa-a709-0ef5478ef585?fullscreenApplet=true   --->PORTFOLIO
+
 
 I am a Data Science postgraduate student passionate about translating complex datasets into actionable business insights. My analytics work focuses on **SQL data manipulation, interactive BI dashboarding, ETL data quality pipelines, and financial performance modeling**.
 
